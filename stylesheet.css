@@ -260,7 +260,7 @@ body {
     height: auto;
 }
 
-/* this the galaxies section below */
+/*  the galaxies section below */
 
 .galaxy-full {
     height: 100vh;
@@ -275,19 +275,19 @@ body {
 }
 
 .spiral-bg {
-    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1543722530-d2c3201371e7?w=1920');
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://cff2.earth.com/uploads/2025/03/24162851/galaxy-spiral-J23453268-0449256_too-massive_1m.jpg');
 }
 
 .elliptical-bg {
-    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=1920');
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://cdn.esahubble.org/archives/images/screen/opo1038b.jpg');
 }
 
 .irregular-bg {
-    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1538370965046-79c0d6907d47?w=1920');
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://www.thoughtco.com/thmb/5JpuxzU2hVib_rBZbxqJKjI2fNs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1330px-M82_Chandra_HST_Spitzer-98ad247c47a24d0284aed82e246d442b.jpg');
 }
 
 .milky-way-bg {
-    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1506318137071-a8e063b4bc04?w=1920');
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://cdn.mos.cms.futurecdn.net/ZREypanfg3GboyC8knCLPF.jpg');
 }
 
 .galaxy-overlay {
